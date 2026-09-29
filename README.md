@@ -160,8 +160,8 @@ Approximately:
 * **64.3%** with a 16–30 minute delay were neutral/dissatisfied.
 * **63.9%** with a 31–60 minute delay were neutral/dissatisfied.
 * **64.4%** with a delay exceeding 60 minutes were neutral/dissatisfied.
-
 This suggests that dissatisfaction increases notably once delays exceed approximately 15 minutes.
+
 ---
 
 ## Conclusions and Recommendations
