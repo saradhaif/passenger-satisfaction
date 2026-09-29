@@ -119,7 +119,7 @@ Examine the lowest-rated services among dissatisfied Young Adult and Adult passe
 ### 6. Examine Operational Delays
 
 Assess whether arrival delays are associated with passenger dissatisfaction.
----
+
 
 ## Key Findings
 
@@ -149,19 +149,19 @@ Among neutral/dissatisfied passengers:
 
 These findings highlight digital and online aspects of the passenger journey as areas for further investigation.
 
-### Arrival Delays
+### Overall delays
 
-Arrival delays show a relationship with dissatisfaction.
+delays show a relationship with dissatisfaction.
 
 Approximately:
 
-* **52.6%** of passengers with no arrival delay were neutral/dissatisfied.
+* **52.6%** of passengers with no delay were neutral/dissatisfied.
 * **58.8%** with a 1–15 minute delay were neutral/dissatisfied.
 * **64.3%** with a 16–30 minute delay were neutral/dissatisfied.
 * **63.9%** with a 31–60 minute delay were neutral/dissatisfied.
 * **64.4%** with a delay exceeding 60 minutes were neutral/dissatisfied.
 
-This suggests that dissatisfaction increases notably once arrival delays exceed approximately 15 minutes.
+This suggests that dissatisfaction increases notably once delays exceed approximately 15 minutes.
 ---
 
 ## Conclusions and Recommendations
