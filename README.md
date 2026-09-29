@@ -15,7 +15,7 @@
 
 ## Problem Statement
 
-Passenger satisfaction is an important indicator of airline customer experience, but overall satisfaction figures do not explain which passengers are most dissatisfied or which aspects of their journey are associated with dissatisfaction. This project analyzes passenger demographics, travel characteristics, service ratings, and operational delays to identify patterns associated with passenger satisfaction and dissatisfaction.
+Approximately 56.5% of passengers report being Neutral or Dissatisfied with the airline. To address this issue, this analysis will examine both passenger, travel, service, and operational factor to provide managers with actionable insights for improvement.
 
 ---
 
